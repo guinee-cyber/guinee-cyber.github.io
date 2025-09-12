@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="https://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="https://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="https://www.google.com/schemas/sitemap-news/0.9">
+  <!-- Page principale -->
+  <url>
+    <loc>https://guinee-cyber.github.io/</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Sections principales (ancrées dans index.html) -->
+  <url>
+    <loc>https://guinee-cyber.github.io/#accueil</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.90</priority>
+  </url>
+
+  <url>
+    <loc>https://guinee-cyber.github.io/#services</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <url>
+    <loc>https://guinee-cyber.github.io/#apropos</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+
+  <url>
+    <loc>https://guinee-cyber.github.io/#faq</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://guinee-cyber.github.io/#blog</loc>
+    <lastmod>2025-08-25</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.75</priority>
+  </url>
+
+  <url>
+    <loc>https://guinee-cyber.github.io/#contact</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- Page sitemap lisible (à ajouter) -->
+  <url>
+    <loc>https://guinee-cyber.github.io/sitemap.html</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+
+  <!-- Si vous ajoutez des pages "mentions", "confidentialite", "cgu" en fichiers séparés,
+       remplacez les ancres par ces URLs réelles ci-dessous (exemple) :
+  <url>
+    <loc>https://guinee-cyber.github.io/mentions-legales.html</loc>
+    <lastmod>2025-09-12</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.40</priority>
+  </url>
+  -->
+</urlset>
